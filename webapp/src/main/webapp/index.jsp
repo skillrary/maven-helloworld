@@ -5,7 +5,7 @@
 <h1>Welcome to SkillRary.com</h1>
 <p>This is our DevOps class</p>
 
-<iframe src="https://skillrary.com">
+<iframe src="https://skillrary.com" width="600" height="600">
   <p>Your browser does not support iframes.</p>
 </iframe>
 
