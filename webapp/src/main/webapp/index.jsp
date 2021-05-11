@@ -2,8 +2,8 @@
 <html>
 <body style="background-color:powderblue;">
 
-<h1>I love SkillRary.com</h1>
-<p>This is our DevOps class</p>
+<h1>My name is Hariharan EP Kud dra ellaru Coppee.</h1>
+<p>Juice Kuditiya?</p>
 
 <iframe src="https://skillrary.com" width="800" height="600">
   <p>Your browser does not support iframes.</p>
