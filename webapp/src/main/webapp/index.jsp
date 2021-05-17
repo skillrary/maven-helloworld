@@ -8,6 +8,7 @@
 
 <iframe src="https://skillrary.com" width="800" height="600">
   <p>Your browser does not support iframes.</p>
+  <p>Your browser does not support iframes.</p>
 </iframe>
 
 </body>
